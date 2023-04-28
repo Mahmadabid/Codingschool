@@ -2,6 +2,7 @@
 "name": "code",
 "description": "A website to learn how to code",
 "version": "0.1.0",
+"private": true,
 "author": "Ahmad",
 "dependencies": {
 "@chakra-ui/react": "^1.6.7",
